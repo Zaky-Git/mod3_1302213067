@@ -1,0 +1,11 @@
+E:\mod2_1302213067\mod2_1302213067\bin\Debug\mod2_1302213067.exe.config
+E:\mod2_1302213067\mod2_1302213067\bin\Debug\mod2_1302213067.exe
+E:\mod2_1302213067\mod2_1302213067\bin\Debug\mod2_1302213067.pdb
+E:\mod2_1302213067\mod2_1302213067\obj\Debug\mod2_1302213067.csproj.AssemblyReference.cache
+E:\mod2_1302213067\mod2_1302213067\obj\Debug\mod2_1302213067.csproj.SuggestedBindingRedirects.cache
+E:\mod2_1302213067\mod2_1302213067\obj\Debug\mod2_1302213067.Form1.resources
+E:\mod2_1302213067\mod2_1302213067\obj\Debug\mod2_1302213067.Properties.Resources.resources
+E:\mod2_1302213067\mod2_1302213067\obj\Debug\mod2_1302213067.csproj.GenerateResource.cache
+E:\mod2_1302213067\mod2_1302213067\obj\Debug\mod2_1302213067.csproj.CoreCompileInputs.cache
+E:\mod2_1302213067\mod2_1302213067\obj\Debug\mod2_1302213067.exe
+E:\mod2_1302213067\mod2_1302213067\obj\Debug\mod2_1302213067.pdb
